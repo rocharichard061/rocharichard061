@@ -1,95 +1,47 @@
 <div align="center">
 
-# 👋 Hey, I'm Richard Rocha
+# Richard Rocha
 
-### Software Engineering Student | Backend Developer in Progress 🚀
+### "Transformando ideias em código, uma linha de cada vez."
 
-<p>
-  <a href="https://github.com/rocharichard061">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/richard-rocha2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
+Software Engineering Student • Backend & Software Development
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a **Software Engineering student** focused on backend development
-and building real-world applications.
-
-Currently working with:
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ SQL & Databases
-- 🔗 REST APIs
-- 🐙 Git & GitHub
-- 🐧 Linux
-
-I'm constantly learning, building projects and improving my
-software engineering skills.
-
----
-
-## ⚡ Tech Stack
+## 💻 Languages
 
 <div align="center">
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,javascript" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Stacks & Technologies
 
-### 🏦 Banking API
+<div align="center">
 
-A backend application designed to simulate a banking system.
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgresql,git,github,linux,docker" />
 
-**Technologies:** Java • Spring Boot • SQL • REST API
-
----
-
-### 🎓 Academic Management System
-
-A system designed to manage academic projects,
-students and advisors.
-
-**Technologies:** Java • Spring Boot • SQL
+</div>
 
 ---
 
-### 🌐 Web Projects
+## 🚀 Currently Learning
 
-Applications developed while exploring frontend
-and full-stack development.
+<div align="center">
 
-**Technologies:** HTML • CSS • JavaScript
+☕ Java &nbsp;&nbsp; 🌱 Spring Boot &nbsp;&nbsp; 🗄️ SQL &nbsp;&nbsp; 🔗 REST APIs
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
 
-```text
-Java              ███████████████░░░  Learning
-Spring Boot       ███████████░░░░░░░  Learning
-SQL               █████████████░░░░░  Learning
-REST APIs         ███████████░░░░░░░  Learning
-Docker            ███████░░░░░░░░░░░  Learning
-Software Design   █████████░░░░░░░░░  Learning
+**Build. Learn. Improve. Repeat.**
+
+</div>
