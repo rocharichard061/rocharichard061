@@ -2,7 +2,7 @@
 
 # Richard Rocha
 
-### "Transformando ideias em código, uma linha de cada vez."
+### Driven by curiosity, powered by code.
 
 Software Engineering Student • Backend & Software Development
 
@@ -25,23 +25,5 @@ Software Engineering Student • Backend & Software Development
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgresql,git,github,linux,docker" />
-
-</div>
-
----
-
-## 🚀 Currently Learning
-
-<div align="center">
-
-☕ Java &nbsp;&nbsp; 🌱 Spring Boot &nbsp;&nbsp; 🗄️ SQL &nbsp;&nbsp; 🔗 REST APIs
-
-</div>
-
----
-
-<div align="center">
-
-**Build. Learn. Improve. Repeat.**
 
 </div>
