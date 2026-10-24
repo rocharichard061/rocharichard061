@@ -4,7 +4,7 @@
 
 <br/>
 
-**Software Engineering Student · Java Back-end Developer**
+**Software Engineering Student · Java Back-end Developer*
 
 Building back-end systems with **Java**, **Spring Boot** and **PostgreSQL**.
 
