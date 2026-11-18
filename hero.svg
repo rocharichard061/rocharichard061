@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="t d">
+  <title id="t">Richard Rocha</title>
+  <desc id="d">Terminal: Richard Rocha, desenvolvedor back-end Java, foco em Spring Boot, APIs REST e PostgreSQL, aberto a vagas júnior</desc>
+  <rect x="0.5" y="0.5" width="639" height="329" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <path d="M0.5 36 V10.5 A10 10 0 0 1 10.5 0.5 H629.5 A10 10 0 0 1 639.5 10.5 V36 Z" fill="#161B22"/>
+  <line x1="0" y1="36" x2="640" y2="36" stroke="#30363D"/>
+  <circle cx="22" cy="18" r="5" fill="#30363D"/><circle cx="40" cy="18" r="5" fill="#30363D"/><circle cx="58" cy="18" r="5" fill="#30363D"/>
+  <text x="84" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8B949E">richard-rocha: ~/engenharia-de-software</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19">
+    <text x="28" y="76" fill="#8B949E">$ <tspan fill="#E6EDF3">whoami</tspan></text>
+    <text x="28" y="116" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#E6EDF3">Richard Rocha</text>
+    <text x="28" y="148" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" fill="#F89820">Desenvolvedor Back-end Java</text>
+    <text x="28" y="188" fill="#8B949E">$ <tspan fill="#E6EDF3">cat foco.txt</tspan></text>
+    <text x="28" y="218" fill="#58A6FF">Spring Boot · APIs REST · PostgreSQL</text>
+    <text x="28" y="258" fill="#8B949E">$ <tspan fill="#E6EDF3">status</tspan></text>
+    <text x="28" y="288" fill="#58A6FF">Aberto a vagas de back-end júnior</text>
+    
+  </g>
+</svg>
